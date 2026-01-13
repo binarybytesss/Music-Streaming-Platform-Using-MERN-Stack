@@ -91,9 +91,10 @@ This project was built as a **hands-on learning journey** and a **portfolio-read
 
 ## 📁 Project Structure
 Music-Streaming-Platform-Using-MERN-Stack/
-├── spotify_frontend/
-├── spotify_backend/
-├── package.json
-├── package-lock.json
-├── README.md
-├── .gitignore
+spotify_frontend/
+spotify_backend/
+package.json
+package-lock.json
+README.md
+.gitignore
+
